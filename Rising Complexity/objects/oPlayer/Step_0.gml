@@ -45,7 +45,39 @@ if (place_meeting(x, y, oDoor)) && (place_meeting(x, y + 1, oWall))
 }
 
 // animations
-if (hsp > 0) {
+/**if (vsp != 0) {
+	if (hsp < 0) {
+		image_xscale = -1;
+	} else {
+		image_xscale = 1;
+	}
+	sprite_index = sPlayerA;
+	image_speed = 1;
+} else if (hsp != 0) {
+	if (hsp < 0) {
+		image_xscale = -1;
+	} else {
+		image_xscale = 1;
+	}
+	sprite_index = sPlayerR;
+	image_speed = 2;
+} else {
+	image_xscale = 1;
+	sprite_index = sPlayer;
+	image_speed = 1;
+}
+**/
+
+if (vsp != 0) {
+	/**if (hsp < 0) {
+		image_xscale = -1;
+	} else {
+		image_xscale = 1;
+	}**/
+	sprite_index = sPlayerA;
+	image_speed = 1;
+}
+else if (hsp > 0) {
 	image_xscale = 1;
 	sprite_index = sPlayerR;
 	image_speed = 2;
@@ -58,3 +90,4 @@ if (hsp > 0) {
 	sprite_index = sPlayer;
 	image_speed = 1;
 }
+
