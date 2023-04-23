@@ -53,7 +53,7 @@
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"Level6","path":"rooms/Level6/Level6.yy",},},
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
-    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
+    {"id":{"name":"Menu","path":"sprites/Menu/Menu.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},},
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},

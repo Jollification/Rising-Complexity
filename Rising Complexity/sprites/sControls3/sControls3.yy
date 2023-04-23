@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sControls3",
-  "bbox_bottom": 719,
+  "bbox_bottom": 1119,
   "bbox_left": 0,
   "bbox_right": 1279,
   "bbox_top": 0,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 720,
+  "height": 1120,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e1c61f8d-7bf0-4e4b-bf4b-9ec65ab4fa20","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
