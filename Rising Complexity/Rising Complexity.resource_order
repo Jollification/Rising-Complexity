@@ -25,6 +25,7 @@
     {"name":"sPlayerA","order":3,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+    {"name":"Level6","order":5,"path":"rooms/Level6/Level6.yy",},
     {"name":"Level3","order":3,"path":"rooms/Level3/Level3.yy",},
     {"name":"sDoor","order":5,"path":"sprites/sDoor/sDoor.yy",},
     {"name":"oDoor","order":2,"path":"objects/oDoor/oDoor.yy",},
