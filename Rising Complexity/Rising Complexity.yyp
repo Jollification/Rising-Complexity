@@ -43,6 +43,7 @@
     {"id":{"name":"sPlayerL","path":"sprites/sPlayerL/sPlayerL.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
+    {"id":{"name":"sPlayerLeft","path":"sprites/sPlayerLeft/sPlayerLeft.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
