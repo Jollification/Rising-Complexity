@@ -40,7 +40,7 @@ y = y + vsp;
 // level changing
 if (place_meeting(x, y, oDoor)) && (place_meeting(x, y + 1, oWall))
 {
-	level = level + 1;
+	global.level = global.level + 1;
 	room_goto_next()
 }
 
