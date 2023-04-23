@@ -34,7 +34,6 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
-    {"id":{"name":"Level5","path":"rooms/Level5/Level5.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"Level4","path":"rooms/Level4/Level4.yy",},},
@@ -43,6 +42,7 @@
     {"id":{"name":"sPlayerL","path":"sprites/sPlayerL/sPlayerL.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
